@@ -75,3 +75,5 @@ ssh-add ~/.ssh/id_rsa
   7. нажмите кнопку Add SSH key.
 
 Теперь нужно перейти к работе по SSH: перейдите в соответствующий репозитарий в аккаунте Github, нажмите на зеленую кнопку Clone or download и кликните Use SSH.
+
+https://www.youtube.com/watch?v=OYhPpeufgW8
